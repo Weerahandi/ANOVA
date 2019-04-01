@@ -1,6 +1,7 @@
 # ANOVA
-Analysis of Variance under Unequal Variances
-R Code Developed by Sam Weerahandi (retired) and Malwane Ananda of UNLV.
+Analysis of Variance under Unequal Variances.
+
+The R Code was Developed by Sam Weerahandi (retired) and Malwane Ananda of UNLV.
 
 The basic usage is that with the R Code you can test null hypotheses of the equality of two or more populations. 
 After compiling the R-code you run test as in: out=oneway.anova(Y~X,data), where
