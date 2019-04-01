@@ -1,3 +1,4 @@
+# Coded by Sam Weerahandi of X-Techniques and Malwane Ananda
 # Simulation Study for ANOVA under unequal variances
 # Compile as source("AnovaSim.R")
 # Run as # out=simulate(c(2,3,2),c(1,2,3),5000)
