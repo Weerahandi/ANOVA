@@ -1,4 +1,4 @@
-
+# Coded by Sam Weerahandi of X-Techniques and Malwane Ananda of UNLV
 # Oneway ANOVA under unqual Variances
 # source as source("onewayanova.r")
 # run as in # out=oneway.anova(extra~group,sleep)
